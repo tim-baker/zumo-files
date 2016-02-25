@@ -92,7 +92,7 @@ void loop()
 
   // Our "error" is how far we are away from the center of the line, which
   // corresponds to position 2500.
-  int error = heading - 180;
+  int error = heading + 180;
   
   Serial.print("ERROR: ");
   Serial.print(error);
