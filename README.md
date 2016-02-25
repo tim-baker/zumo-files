@@ -1,4 +1,4 @@
-zumo-comp
+zumo-files
 =========
 
 Various project files for a proposed UTS Robotics Society (@uts-robotics-society) competition.
